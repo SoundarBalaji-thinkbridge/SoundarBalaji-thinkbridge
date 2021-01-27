@@ -1,4 +1,4 @@
-# Welcome to my GitHub repos
+# Welcome to my GitHub repo
 <p align="Center">
   
   <samp>
